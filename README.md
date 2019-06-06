@@ -1,4 +1,4 @@
-# COMP9021_19T2
+# COMP9021 19T2
 
 If you copy those code to your homework, you will **DEFINITELY** be punished for plagiarism.
 
